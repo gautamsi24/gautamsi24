@@ -2,7 +2,7 @@
 
 # I'm Gautam 👋
 
-I'm a fullstack developer(frontend focuseed) who enjoys building clean, well-architected web applications. I care about good UX, maintainable code, and shipping things that actually work.
+I'm a fullstack developer(frontend focussed) who enjoys building clean, well-architected web applications. I care about good UX, maintainable code, and shipping things that actually work.
 
 ## 🛠 Tech I Work With
 
