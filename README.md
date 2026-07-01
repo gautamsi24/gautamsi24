@@ -11,7 +11,7 @@ I'm a fullstack developer who enjoys building clean, well-architected web applic
 **UI Libraries:** shadcn/ui · Radix UI · Material UI · Charting libraries\
 **Testing:** Cypress · Cucumber (BDD) · Playwright\
 **Architecture:** Micro-frontends · Role-based access control · Component-driven design · Compositional Component · Edge-Optimized State and Data Fetching\
-**AI Tools:** Claude · Cursur · Copilot · Other AI agents\
+**AI Tools:** Claude · Cursor · Copilot · Other AI agents\
 **Cloud:** AWS
 
 ## 🔭 What I've Been Building
