@@ -12,7 +12,7 @@ I'm a fullstack developer who enjoys building clean, well-architected web applic
 **Testing:** Cypress · Cucumber (BDD) · Playwright\
 **Architecture:** Micro-frontends · Role-based access control · Component-driven design · Compositional Component · Edge-Optimized State and Data Fetching\
 **AI Tools:** Claude · Cursur · Copilot · Other AI agents\
-**Cloud:** AWS\
+**Cloud:** AWS
 
 ## 🔭 What I've Been Building
 
