@@ -2,15 +2,17 @@
 
 # I'm Gautam 👋
 
-I'm a fullstack developer(frontend focussed) who enjoys building clean, well-architected web applications. I care about good UX, maintainable code, and shipping things that actually work.
+I'm a fullstack developer who enjoys building clean, well-architected web applications. I care about good UX, maintainable code, and shipping things that actually work.
 
 ## 🛠 Tech I Work With
 
-**Frontend:** React · TypeScript · Tailwind CSS · Vite  
-**Backend:** Node.js · MongoDB  
-**UI Libraries:** shadcn/ui · Radix UI  
-**Testing:** Cypress · Cucumber (BDD)  
-**Architecture:** Micro-frontends · Role-based access control · Component-driven design
+**Frontend:** React · TypeScript · Javascript · Tailwind CSS · Vite · Webpack 
+**Backend:** Node.js · MongoDB · PostgreSQL · Hono · Supabase  
+**UI Libraries:** shadcn/ui · Radix UI · Material UI · Charting libraries  
+**Testing:** Cypress · Cucumber (BDD) · Playwright 
+**Architecture:** Micro-frontends · Role-based access control · Component-driven design · Compositional Component · Edge-Optimized State and Data Fetching
+**AI Tools:** Claude · Cursur · Copilot · Other AI agents
+**Cloud:** AWS
 
 ## 🔭 What I've Been Building
 
@@ -27,4 +29,4 @@ Exploring micro-frontend architecture patterns — how to compose independently 
 
 ---
 
-*Always looking to collaborate on interesting frontend projects. Feel free to reach out!*
+*Always looking to collaborate on interesting fullstack/frontend projects. Feel free to reach out!*
