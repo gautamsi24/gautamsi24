@@ -9,8 +9,8 @@ I'm a fullstack developer who enjoys building clean, well-architected web applic
 **Frontend:** React · TypeScript · Javascript · Tailwind CSS · Vite · Webpack\
 **Backend:** Node.js · MongoDB · PostgreSQL · Hono · Supabase\
 **UI Libraries:** shadcn/ui · Radix UI · Material UI · Charting libraries\
-**Testing:** Cypress · Cucumber (BDD) · Playwright\
-**AI Tools:** Claude · Cursor · Copilot · Other AI agents\
+**Testing:** RTL · Vitest · Cypress · Cucumber (BDD) · Playwright\
+**AI Tools:** Claude · Cursor · Copilot · RAG · MCP\
 **Cloud:** AWS\
 **Architecture:** Micro-frontends · Role-based access control · Component-driven design · Compositional Component · Edge-Optimized State and Data Fetching · Server-Driven UI library · Shared design system
 
